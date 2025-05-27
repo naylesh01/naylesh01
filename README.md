@@ -1,3 +1,5 @@
+![logo](https://github.com/naylesh01/naylesh01/blob/main/Naylesh%20prajapati%20(1).png)
+
 <h1 align="center">Hi 👋, I'm Naylesh Prajapati</h1>
 <h3 align="center">B.Tech IT Student | Web Developer| MERN Stack | Next.js Developer</h3>
 
